@@ -10,7 +10,8 @@ A small exploratory project that analyzes a dataset of Nobel Prize winners. The 
 - A list of laureates who won multiple Nobel Prizes.
 
 Files
-- analysis.py — example script that performs the analysis and plots
+- notebook.ipynb — example script that performs the analysis and plots
+- noblel.csv - example file that displays the analysis and plots
 
 Requirements
 - Python 3.8+
